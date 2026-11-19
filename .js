@@ -1,1 +1,1 @@
-document.querySelector('h1')
+document.h1.style.backgroundColor = "blue"
